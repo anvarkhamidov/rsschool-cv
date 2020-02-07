@@ -37,4 +37,4 @@ English
 -------
 I have been learning English since I am schoolboy until now. However, as I had some break time on summer, I forgot most important parts of English which led on decrease in my speaking and grammar. Despite this, I can fully understand documentations, and everything written in English. I took IELTS also, which means I have known English quite well. But anyway, sorry beforehand for grammar, lexical mistakes or what mistakes I have in this resume. 
 
-I tried to do my best on writing this, and limited using with only [links], *headers*, *bold* and _italics_ even I know more than this and had no chance to use all of them.
+P.S.I tried to do my best on writing this, and limited using with only [links], *headers*, *bold* and _italics_ even I know more than this and had no chance to use all of them.
