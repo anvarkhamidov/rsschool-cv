@@ -11,12 +11,19 @@ Now I am Junior Back-end Developer, mostly work with *[Python](https://python.or
 
 Skills
 ------
-I know syntax of *[Swift](https://developer.apple.com/swift)*, *[Java](https://www.java.com/)* and basic knowledge in *[JavaScript](https://ru.wikipedia.org/wiki/JavaScript)*, HTML&CSS, C++ included, of course. 
+I know syntax of 
+* *[Swift](https://developer.apple.com/swift)*
+* *[Java](https://www.java.com/)* 
+* and basic knowledge in *[JavaScript](https://ru.wikipedia.org/wiki/JavaScript)* 
+* HTML&CSS, C++ included, of course. 
 I want to learn each of them, but unfortunately, I do not have enough time for this. Besides, I have some experience on working with *Git Version Control* to have my projects always updated on my repository. Mostly, I work with *[Django]()* framework, however *[Flask]()* is not new for me too.
 
 Code examples
 -------------
-Currently I have only product which is in production: [Telegram Online Shop Bot](https://t.me/Anori_bot) (I cannot provide code for this, as it is in production and I have an agreement with contractor), [Simple Django CRUD System](https://gitlab.com/anvarkhamidov/django-book-library) (has many bugs :D), and now I am working on Back-end development using *Django* for Mobile application and Front-end web applications (this project is under development and will be published soon).
+Currently I have only product which is in production:
+1. [Telegram Online Shop Bot](https://t.me/Anori_bot) (I cannot provide code for this, as it is in production and I have an agreement with contractor)
+1. [Simple Django CRUD System](https://gitlab.com/anvarkhamidov/django-book-library) (has many bugs :D)
+1. and now I am working on Back-end development using *Django* for Mobile application and Front-end web applications (this project is under development and will be published soon).
 
 Experience
 ----------
